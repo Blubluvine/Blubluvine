@@ -22,6 +22,11 @@ On my GitHub you'll find my first projects, technical exercises, and the learnin
 - MySQL · Java  
 - Git & version control
 
+### **Tools**
+- VSCode  
+- IntelliJ  
+- GitHub
+
 ### **Design & Illustration**
 - Adobe Photoshop  
 - Adobe InDesign  
@@ -29,11 +34,6 @@ On my GitHub you'll find my first projects, technical exercises, and the learnin
 - CorelDraw  
 - Affinity Suite  
 - Figma
-
-### **Tools**
-- VSCode  
-- IntelliJ  
-- GitHub
 
 ---
 
@@ -64,8 +64,9 @@ and how to bring these worlds together into coherent experiences.
 ---
 
 ## 📫 How to reach me
-Email · Instagram · ArtStation  
-*(I can add the actual links if needed.)*
+Email: abigailrabal91@gmail.com
+Instagram: https://www.instagram.com/blubluvine/
+ArtStation: https://www.artstation.com/blubluvine
 
 ---
 
